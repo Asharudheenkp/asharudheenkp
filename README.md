@@ -63,7 +63,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=asharudheenkp&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Asharudheen's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asharudheenkp&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Asharudheen's Activity Graph"/>
 </p>
 
 ---
