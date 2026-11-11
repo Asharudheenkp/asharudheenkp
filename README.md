@@ -1,83 +1,97 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#f43f5e;">Asharudheen Kp</span></h1>
+<div align="center">
 
-<p align="center">
-  💻 Full Stack Developer • 🔥 Code Craftsman • 🧠 Lifelong Learner <br/>
-  🏡 Kerala, India &nbsp;|&nbsp; 🌐 Working with global teams
-</p>
+# Hey, I'm Asharudheen KP 👋
 
----
+### Software Engineer · PHP / Laravel · React / Inertia.js
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Code.+Build.+Repeat.;Laravel+%2B+Next.js+Specialist;Problem+Solver+%7C+Performance+Seeker;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
+**Building useful, scalable web applications from Kerala, India 🇮🇳**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=PHP+%26+Laravel+Engineer;React+%2B+Inertia.js+%2B+MySQL;APIs+%7C+Performance+%7C+Clean+Code;Turning+Ideas+Into+Working+Products" alt="Typing introduction" />
 
-### ⚡ About Me
+<br />
 
-> Just a regular guy who writes code to turn coffee into scalable web apps.
+<a href="https://www.linkedin.com/in/asharudheenkp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:asharudheen.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 🛠 3+ years crafting Laravel & Next.js projects  
-- ⚙️ Focused on performance, clean code, and user experience  
-- 🔥 Passionate about building tools that **solve real problems**  
-- 🧠 Always learning – currently diving into Docker & DevOps  
-- ✉️ Reach me: asharudheen.dev@gmail.com  
+</div>
 
 ---
 
-### 🏆 Achievements
+## 👨‍💻 About Me
 
-![Award](https://img.shields.io/badge/🏅%20Team%20Player%20Award%202024-Limenzy-orange?style=for-the-badge)
+I'm a **Software Engineer with 4+ years of experience** building and improving web applications, with a strong focus on **PHP, Laravel, MySQL, REST APIs, and modern JavaScript frontends**.
+
+- 💼 Currently at **Axel Technologies Pvt Ltd**, working on **Workpex**, a CRM and business-management platform.
+- 🏗️ I enjoy designing reliable backend systems, improving application performance, and turning complex workflows into simple interfaces.
+- 🔄 Comfortable working across the stack with **Laravel, React, Inertia.js, and Tailwind CSS**.
+- 🌱 Exploring more of **DevOps, system design, and Flutter development**.
+- 🌍 Open to meaningful **backend and full-stack engineering opportunities**, including remote and international teams.
+
+## 🛠️ Tech Stack
+
+**Backend & Data**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-334155?style=flat-square)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Selected Projects
+
+| Project | My work | Technologies |
+| :--- | :--- | :--- |
+| **Workpex CRM** | Building business workflows including quotation management, billing integrations, product management, and API-driven features; helping modernize the application from Laravel/Blade to React + Inertia.js. | Laravel 12, React, Inertia.js, MySQL |
+| **Petbae** | Improved a pet-services booking platform, including admin workflows, booking functionality, and a Laravel version upgrade. | Laravel, MySQL, Mailchimp |
+| **Eduwizz** | Developed role-based office-management and task workflows for different user groups. | Laravel, JavaScript, MySQL |
+| **Dilny** | Built REST APIs and administration features for an audio-tour mobile platform. | Laravel, PHP, MySQL, REST APIs |
+| **Sheera Lateen** | Worked on e-commerce storefront, cart, order-processing, and payment workflows. | Laravel, MySQL, MyFatoorah |
+
+> **Note:** Some professional project repositories are private or belong to the organizations I've worked with.
+
+## 🔭 Side Projects & Learning
+
+Outside of work, I like turning ideas into functional prototypes, including **RoomSplit** (a Flutter shared-expense app) and **KCF** (a sports-federation mobile app MVP). I'm also sharpening my skills in deployment, system design, and developer tooling.
+
+## 🏆 Recognition
+
+**Team Player Award (2024)** — Limenzy Technologies
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=asharudheenkp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=asharudheenkp&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on public repositories" />
+</div>
 
 ---
 
-### 🧰 Tech Toolbox
+<div align="center">
 
-#### 🔙 Backend  
-![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### 🤝 Let's Build Something Useful
 
-#### 🔮 Frontend  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Interested in collaborating or discussing an engineering opportunity?**
 
-#### ⚙️ Tools & Utilities  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[**LinkedIn**](https://www.linkedin.com/in/asharudheenkp/) · [**Email**](mailto:asharudheen.dev@gmail.com)
 
----
+*Build thoughtfully. Keep learning. Ship things that matter.*
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asharudheenkp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharudheenkp&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asharudheenkp&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asharudheenkp&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Asharudheen's Activity Graph"/>
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:asharudheen.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Optional: Uncomment if LinkedIn or others later -->
-  <a href="https://www.linkedin.com/in/asharudheenkp/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 💬 Motto
-
-> “Stay hungry, stay foolish.” – Steve Jobs  
+</div>
