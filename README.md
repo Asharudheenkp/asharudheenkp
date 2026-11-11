@@ -71,9 +71,11 @@ I'm a **Software Engineer with 4+ years of experience** building and improving w
 
 Outside of work, I like turning ideas into functional prototypes, including **RoomSplit** (a Flutter shared-expense app) and **KCF** (a sports-federation mobile app MVP). I'm also sharpening my skills in deployment, system design, and developer tooling.
 
-## 🏆 Recognition
+## 🏆 Awards & Recognition
 
-**Team Player Award (2024)** — Limenzy Technologies
+- 🏆 **Sr Excellence of the Year Award (2026)** — Axel Technologies Pvt Ltd
+- 🌟 **You Make a Difference Award (2024)** — Limenzy Technologies
+- 🤝 **Team Player Award (2024)** — Limenzy Technologies
 
 ## 📊 GitHub Snapshot
 
